@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"p2.w2soal1comment","c":"P2W2Soal1Comment","l":"addNum(int, int)","u":"addNum(int,int)"},{"p":"p2.w2soal1comment","c":"P2W2Soal1Comment","l":"main(String[])","u":"main(java.lang.String[])"},{"p":"p2.w2soal1comment","c":"P2W2Soal1Comment","l":"P2W2Soal1Comment()","u":"%3Cinit%3E()"}];updateSearchResults();
